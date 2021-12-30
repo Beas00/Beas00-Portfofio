@@ -5,7 +5,7 @@ To see Full Portfolio Website Follow the link bellow:
 
 https://beas00.github.io/Beas00-Portfofio/
 
-Present there ready to connect website page build by using 
+Present there ready Portfolio with Contact, About me, My Work
 
 
 
