@@ -9,6 +9,10 @@
   "author": "Szymon Lacz",
   "license": "ISC",
   "dependencies": {
+    "css-grid-template-parser": "^0.1.0",
     "node-sass": "^7.0.1"
+  },
+  "devDependencies": {
+    "tailwindcss-background-extended": "^1.0.0"
   }
 }
