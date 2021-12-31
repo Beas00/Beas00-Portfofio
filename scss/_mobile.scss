@@ -1,14 +1,14 @@
 // Widescreens
 @include mediaXl {
     .projects {
-      -ms-grid-column: repeat(4, 1fr);
+      -ms-grid-columns: repeat(4, 1fr);
     }
   }
   
   // Desktops & Laptops
   @include mediaLg {
     .projects {
-      ms-grid-columns: repeat(3, 1fr);
+      -ms-grid-columns: repeat(3, 1fr);
     }
   }
   
@@ -60,11 +60,11 @@
         'job2'
         'job3';
   
-      ms-grid-template-columns: 1fr;
+      grid-template-columns: 1fr;
     }
   
     .projects {
-      ms-grid-template-columns: repeat(2, 1fr);
+      grid-template-columns: repeat(2, 1fr);
     }
   }
   
@@ -83,6 +83,6 @@
     }
   
     .projects {
-      ms-grid-template-columns: 1fr;
+      grid-template-columns: 1fr;
     }
   }
