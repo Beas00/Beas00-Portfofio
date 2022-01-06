@@ -144,8 +144,7 @@ main {
   flex-flow: column wrap;
 
   div {
-    box-sizing: border-box;
-    display: flex;
+    box-sizing: border-box;display: flex;
     font-size: 2rem;
     border: 3px #fff solid;
     padding: 1.5rem 2.5rem;
